@@ -7,3 +7,5 @@
 3. [Longest SubString](https://github.com/reazulhaque20/leetCodeSolutions/tree/main/LongestSubString)
 
 4. [Median Of Two Sorted Array](https://github.com/reazulhaque20/leetCodeSolutions/tree/main/MedianOfTwoSortedArray)
+
+5. [Longest Palindromic Substring](https://github.com/reazulhaque20/leetCodeSolutions/tree/main/LongestPalindromic)
