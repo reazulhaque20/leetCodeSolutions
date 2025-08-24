@@ -9,3 +9,9 @@
 4. [Median Of Two Sorted Array](https://github.com/reazulhaque20/leetCodeSolutions/tree/main/MedianOfTwoSortedArray)
 
 5. [Longest Palindromic Substring](https://github.com/reazulhaque20/leetCodeSolutions/tree/main/LongestPalindromic)
+
+6. [ZigZag Conversion](https://github.com/reazulhaque20/leetCodeSolutions/tree/main/ZigzagConversion)
+
+7. [Reverse Integer](https://github.com/reazulhaque20/leetCodeSolutions/tree/main/ReverseInteger)
+
+8. [String to Integer (atoi)](https://github.com/reazulhaque20/leetCodeSolutions/tree/main/StringToIntegerAtoI)
